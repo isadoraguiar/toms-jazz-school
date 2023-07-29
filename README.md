@@ -1,7 +1,7 @@
 <h1 align="center"> TOM'S Jazz School </h1>
 
 <p align="center">
-Projeto de uma Landing Page de Escola de Música desenvolvido através do mini curso da OneBitCode. <br/>
+Projeto de uma Landing Page de Escola de Música desenvolvido através do minicurso da OneBitCode. <br/>
 </p>
 
 <p align="center">
